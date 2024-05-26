@@ -1,7 +1,7 @@
 #ifndef hw4
 #define hw4
 
-/* hw4.h - Header file. */
+/* restaurant.h - Header file. */
 
 
 #define _CRT_SECURE_NO_WARNINGS
