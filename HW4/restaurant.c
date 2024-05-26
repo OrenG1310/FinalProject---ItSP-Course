@@ -1,7 +1,7 @@
 /* restaurant.c - Implementation file. */
 
 
-#include "hw4.h"
+#include "restaurant.h"
 
 
 // Creates a product from the given text file and adds it into a list.
