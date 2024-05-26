@@ -1,4 +1,4 @@
-/* hw4.c - Implementation file. */
+/* restaurant.c - Implementation file. */
 
 
 #include "hw4.h"
