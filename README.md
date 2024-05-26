@@ -1,6 +1,6 @@
 ## Final Project - Introduction to Systems Programming Course
 
-This program is a restaurant managing program.
+This program is a restaurant managing program. It is written in C language.
 
 In its current stage, it receives data from text files. The files contain:
 
