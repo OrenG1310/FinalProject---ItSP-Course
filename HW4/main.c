@@ -5,7 +5,7 @@ The program can add products to the kitchen's stock (Option 2), order products f
 products from a table (Option 4), and print the ordered products and the final bill with the tip included (Option 5). */
 
 
-#include "hw4.h"
+#include "restaurant.h"
 
 
 int main()
