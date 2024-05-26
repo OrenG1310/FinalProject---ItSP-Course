@@ -1,0 +1,19 @@
+20
+1
+2 Pasta 4
+2 Hamburger 25
+3 1 Falafel 3
+3 5 Pasta 4
+4 5 Pasta 1
+4 5 Pasta 5
+4 5 Fish 2
+5 1
+5 5
+2 Fish 5
+3 5 Steak 4
+3 5 Carpaccio 2
+3 5 Cake 1
+3 1 Fish 28
+3 1 Fish 3
+5 1
+5 5

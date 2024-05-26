@@ -1,0 +1,12 @@
+﻿  hw4.c
+  main.c
+  Generating Code...
+C:\Users\Oren\source\repos\HW4\HW4\hw4.c(74,14): warning C4133: 'function': incompatible types - from 'PList' to 'PProduct'
+C:\Users\Oren\source\repos\HW4\HW4\hw4.c(268,13): warning C4133: 'function': incompatible types - from 'PProduct' to 'PList'
+C:\Users\Oren\source\repos\HW4\HW4\main.c(34,15): warning C4133: 'function': incompatible types - from 'List *' to 'PProduct'
+C:\Users\Oren\source\repos\HW4\HW4\main.c(43,16): warning C4133: 'function': incompatible types - from 'List *' to 'PProduct'
+C:\Users\Oren\source\repos\HW4\HW4\main.c(50,16): warning C4133: 'function': incompatible types - from 'List *' to 'PProduct'
+C:\Users\Oren\source\repos\HW4\HW4\main.c(61,16): warning C4133: 'function': incompatible types - from 'List *' to 'PProduct'
+C:\Users\Oren\source\repos\HW4\HW4\main.c(72,16): warning C4133: 'function': incompatible types - from 'List *' to 'PProduct'
+C:\Users\Oren\source\repos\HW4\HW4\main.c(81,13): warning C4133: 'function': incompatible types - from 'List *' to 'PProduct'
+  HW4.vcxproj -> C:\Users\Oren\source\repos\HW4\Debug\HW4.exe
